@@ -1,0 +1,112 @@
+root@debian:/home/devops/git# git log --graph
+*   commit 7ee7a99248705ca417ea82957c754fe4c0c33e3c (HEAD -> master, dev1/master)
+|\  Merge: 3339fe1 d0d7fa2
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Mon Sep 29 21:20:27 2025 +0300
+| |
+| |     Merge branch 'dev' and resolve the plot conflict
+| |
+| * commit d0d7fa2996f19ee99078f7d7a974929feb01e96d (dev)
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Mon Sep 29 21:13:39 2025 +0300
+| |
+| |     Make the story have a happy start
+| |
+* | commit 3339fe17565d0ccaef02e14d14238d7113bd0b30
+|/  Author: deuf1 <bolotov1100@rambler.ru>
+|   Date:   Mon Sep 29 21:16:54 2025 +0300
+|
+|       Make the story more dramatic
+|
+* commit 4858f6b64628b9d95e7933fbd65aa192ea0af10f
+| Author: deuf1 <bolotov1100@rambler.ru>
+| Date:   Mon Sep 29 21:11:33 2025 +0300
+|
+|     Add a classic opening line
+|
+* commit abf6fea4be316903ad50c90ee364f3ebaca4f0c5
+| Author: deuf1 <bolotov1100@rambler.ru>
+| Date:   Mon Sep 29 21:08:03 2025 +0300
+|
+|     Add first line to the story
+|
+*   commit 74aedd6f272114d8a80b59050fd5237e7152557d
+|\  Merge: 066c8f9 b618c87
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Tue Sep 16 02:32:15 2025 +0300
+| |
+| |     Merge branch 'test' and resolve the plot conflict
+| |
+| * commit b618c870c2ff0b96224ba7fe4bbd4569e0410c77 (test)
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Tue Sep 16 02:26:52 2025 +0300
+| |
+| |     Make the story have a happy start
+| |
+* | commit 066c8f9607563e53e0b092bfc638dc3dc3f96b8d
+|/  Author: deuf1 <bolotov1100@rambler.ru>
+|   Date:   Tue Sep 16 02:28:19 2025 +0300
+|
+|       Make the story more dramatic
+:...skipping...
+*   commit 7ee7a99248705ca417ea82957c754fe4c0c33e3c (HEAD -> master, dev1/master)
+|\  Merge: 3339fe1 d0d7fa2
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Mon Sep 29 21:20:27 2025 +0300
+| |
+| |     Merge branch 'dev' and resolve the plot conflict
+| |
+| * commit d0d7fa2996f19ee99078f7d7a974929feb01e96d (dev)
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Mon Sep 29 21:13:39 2025 +0300
+| |
+| |     Make the story have a happy start
+| |
+* | commit 3339fe17565d0ccaef02e14d14238d7113bd0b30
+|/  Author: deuf1 <bolotov1100@rambler.ru>
+|   Date:   Mon Sep 29 21:16:54 2025 +0300
+|
+|       Make the story more dramatic
+|
+* commit 4858f6b64628b9d95e7933fbd65aa192ea0af10f
+| Author: deuf1 <bolotov1100@rambler.ru>
+| Date:   Mon Sep 29 21:11:33 2025 +0300
+|
+|     Add a classic opening line
+|
+* commit abf6fea4be316903ad50c90ee364f3ebaca4f0c5
+| Author: deuf1 <bolotov1100@rambler.ru>
+| Date:   Mon Sep 29 21:08:03 2025 +0300
+|
+|     Add first line to the story
+|
+*   commit 74aedd6f272114d8a80b59050fd5237e7152557d
+|\  Merge: 066c8f9 b618c87
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Tue Sep 16 02:32:15 2025 +0300
+| |
+| |     Merge branch 'test' and resolve the plot conflict
+| |
+| * commit b618c870c2ff0b96224ba7fe4bbd4569e0410c77 (test)
+| | Author: deuf1 <bolotov1100@rambler.ru>
+| | Date:   Tue Sep 16 02:26:52 2025 +0300
+| |
+| |     Make the story have a happy start
+| |
+* | commit 066c8f9607563e53e0b092bfc638dc3dc3f96b8d
+|/  Author: deuf1 <bolotov1100@rambler.ru>
+|   Date:   Tue Sep 16 02:28:19 2025 +0300
+|
+|       Make the story more dramatic
+|
+* commit 4beaba581ebd46ed8aa7d74cb91bbf968fd34edf
+| Author: deuf1 <bolotov1100@rambler.ru>
+| Date:   Tue Sep 16 02:23:50 2025 +0300
+|
+|     Add a classic opening line
+|
+* commit 5e8dd75fa20a410b0e71682f6da566e2b1485197
+  Author: deuf1 <bolotov1100@rambler.ru>
+  Date:   Tue Sep 16 02:20:42 2025 +0300
+
+      Add first line to the story
