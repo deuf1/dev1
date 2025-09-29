@@ -1,3 +1,4 @@
-Add first line to the story
-It was a dark and stormy night.
+This is the beginning of my story.
+And the sun was shining brightly.
+
 
